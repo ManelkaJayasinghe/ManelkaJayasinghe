@@ -109,18 +109,7 @@ Supported electrical installation activities on a high-rise residential project,
 - Educational Team Member — Electronic Robotics and Innovation Club, KDU (2024)
 - **2nd Runner-up** — Spaghetti Bridge Competition (2024)
 
-## 📊 GitHub
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ManelkaJayasinghe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManelkaJayasinghe&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=ManelkaJayasinghe&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
